@@ -24,12 +24,31 @@
     color: blue;
 
 }
-
 .addition-button {
     cursor: pointer;
-    color: blue;
+    color: black;
 }
 .substraction-button {
     cursor: pointer;
-    color: green;
+    color: black;
+}
+.multiplication-button {
+    cursor: pointer;
+    color: black;
+}
+.division-button {
+    cursor: pointer;
+    color: black;
+}
+.exp-button {
+    cursor: pointer;
+    color: black;
+}
+.sqr-button {
+    cursor: pointer;
+    color: black;
+}
+.sqrt-button {
+    cursor: pointer;
+    color: black;
 }
